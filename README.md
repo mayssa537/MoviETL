@@ -1,2 +1,4 @@
 # MoviETL
-Our dataset for our project
+Our project files
+
+Source: https://www.kaggle.com/rounakbanik/the-movies-dataset
