@@ -1,4 +1,4 @@
 # MoviETL
-Our project files
+Mayssa and Hamza's Project!
 
-Source: https://www.kaggle.com/rounakbanik/the-movies-dataset
+Dataset Source: https://www.kaggle.com/rounakbanik/the-movies-dataset
